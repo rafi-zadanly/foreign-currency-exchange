@@ -5,9 +5,7 @@
 
 ## Getting Started
 
-You must has installed NPM on your device for set-up this project
-
-### Prerequisites
+You must has installed NPM on your device to set-up this project
 
 First, download this project and run command below in terminal.
 * npm
@@ -20,5 +18,3 @@ Second, run command below for running this project.
   ```sh
   npm run start
   ```
-
-Third, open this project on browser. Default port is 3000, and you can see [here](http://localhost:3000)
